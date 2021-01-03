@@ -5,6 +5,8 @@ def swap_case(s):
 
     return swapped
 
+# can also use built in str.swapcase() function
+
 
 if __name__ == '__main__':
     s = input()
